@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1920 116" style="enable-background:new 0 0 1920 116;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#333333;}
+	.st1{fill:#1A1A1A;}
+	.st2{fill:#FFFFFF;stroke:#ED1C24;stroke-width:2;stroke-miterlimit:10;}
+	.st3{fill:#ED1C24;}
+	.st4{font-family:'Impact';}
+	.st5{font-size:64px;}
+	.st6{fill:#FFFFFF;}
+	.st7{font-size:47.7252px;}
+	.st8{font-size:103.0095px;}
+	.st9{fill:#CCCCCC;}
+	.st10{font-family:'Calibri';}
+	.st11{font-size:28px;}
+</style>
+<g>
+	<rect x="0" class="st0" width="1920" height="116"/>
+	<rect x="0" class="st1" width="1920" height="116"/>
+</g>
+<path class="st2" d="M1762.13,80h-260.26c-9.32,0-16.87-7.55-16.87-16.87V52.87c0-9.32,7.55-16.87,16.87-16.87h260.26
+	c9.32,0,16.87,7.55,16.87,16.87v10.26C1779,72.45,1771.45,80,1762.13,80z"/>
+<text transform="matrix(1 0 0 1 262.4336 86.0703)" class="st3 st4 st5">AWESOME ICON</text>
+<g>
+	<path class="st3" d="M1884.51,87h-57.02c-4.07,0-7.37-3.3-7.37-7.37v0c0-4.07,3.3-7.37,7.37-7.37h57.02c4.07,0,7.37,3.3,7.37,7.37
+		v0C1891.88,83.7,1888.58,87,1884.51,87z"/>
+	<path class="st3" d="M1884.51,65.37h-57.02c-4.07,0-7.37-3.3-7.37-7.37v0c0-4.07,3.3-7.37,7.37-7.37h57.02
+		c4.07,0,7.37,3.3,7.37,7.37v0C1891.88,62.07,1888.58,65.37,1884.51,65.37z"/>
+	<path class="st3" d="M1884.51,43.75h-57.02c-4.07,0-7.37-3.3-7.37-7.37v0c0-4.07,3.3-7.37,7.37-7.37h57.02
+		c4.07,0,7.37,3.3,7.37,7.37v0C1891.88,40.44,1888.58,43.75,1884.51,43.75z"/>
+</g>
+<rect x="220" y="17" class="st3" width="3" height="82"/>
+<polygon class="st3" points="67.52,14 61.42,50.42 71.37,50.42 75.52,14 "/>
+<polygon class="st3" points="154.82,14 160.92,50.42 150.97,50.42 146.82,14 "/>
+<polygon class="st3" points="68.47,14 152.95,14 153.87,22.22 68.47,22.22 "/>
+<polygon class="st3" points="46.07,50.42 61.42,101.44 160.92,101.44 172.17,50.42 "/>
+<text transform="matrix(1 0 0 1 75.6035 95.2236)" class="st6 st4 st7">AIM</text>
+<text transform="matrix(1 0 0 1 674.2847 98.8325)" class="st6 st4 st8">MARKETPLACE</text>
+<text transform="matrix(1 0 0 1 1499.5684 68.5044)" class="st9 st10 st11">Search</text>
+</svg>
